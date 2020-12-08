@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body, html{
+    height: 100%;
+}
+
+body{
+    background: url(./images/foto.png) no-repeat center center fixed;
+    background-size: cover;
+    position: relative;
+}
+#home,h2{
+    color: #079ABD;
+  
+}
+#home{
+
+    margin-top: 23%;
+    margin-left: 10%;
+
+}
+#descricao{
+    background-color: black;
+}
+
+#descricao p{
+    color: white;
+}
+#tecnologia{
+    background-color: white;
+}
+
+#tecnologia img{
+    width:80%;
+}
+
+
+footer{
+    background-color: black;
+}
+
